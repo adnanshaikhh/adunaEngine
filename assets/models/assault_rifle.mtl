@@ -1,0 +1,59 @@
+# Blender MTL File: 'Assault Rifle.blend'
+# Material Count: 5
+
+newmtl Material
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.687456 0.687456 0.687456
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/Everett/Pictures/Textures/SCAR DIFF.png
+map_Bump C:/Users/Everett/Pictures/Textures/SCAR NOR.png
+map_Ks C:/Users/Everett/Pictures/Textures/SCAR Spec.png
+
+newmtl Material.001
+Ns 445.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:/Users/Everett/Pictures/Textures/SCAR DIFF.png
+map_d C:/Users/Everett/Pictures/Textures/SCAR DIFF.png
+
+newmtl Material.002
+Ns 445.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 2.000000 2.000000 2.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd C:/Users/Everett/Pictures/Textures/SCAR DIFF.png
+map_d C:/Users/Everett/Pictures/Textures/SCAR DIFF.png
+refl e:/Textures/Interior.jpg
+
+newmtl Material.005
+Ns 445.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:/Users/Everett/Pictures/Textures/gun edges.png
+map_d C:/Users/Everett/Pictures/Textures/gun edges.png
+
+newmtl Material.005_NONE
+Ns 445.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:/Users/Everett/Pictures/Textures/gun edges.png
+map_d C:/Users/Everett/Pictures/Textures/gun edges.png
